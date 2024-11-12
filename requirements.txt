@@ -1,0 +1,7 @@
+PyMuPDF
+nltk~=3.9.1
+requests~=2.32.3
+fitz
+flask
+streamlit~=1.39.0
+openai~=1.53.0
