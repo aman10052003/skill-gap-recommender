@@ -4,3 +4,4 @@ requests~=2.32.0
 flask~=2.2.0
 streamlit~=1.39.0
 openai~=1.53.0
+gunicorn
