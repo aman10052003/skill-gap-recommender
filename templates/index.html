@@ -665,6 +665,80 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+     
+     /* Responsive Design */
+@media (max-width: 768px) {
+    /* Adjust font sizes for mobile */
+    .navbar h1 {
+        font-size: 1.2em;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .navbar ul li a {
+        font-size: 0.9em;
+    }
+
+    .hero {
+        padding: 30px 10px;
+    }
+
+    .upload-grid {
+        flex-direction: column;
+    }
+
+    .skills-grid, .recommendation-section {
+        flex-direction: column;
+    }
+
+    .upload-box, .skill-card, .course-card, .project-card {
+        width: 90%;
+        max-width: 300px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* Adjust styles for tablet screens */
+    .navbar h1 {
+        font-size: 1.4em;
+    }
+
+    .navbar ul li a {
+        font-size: 1em;
+    }
+
+    .upload-box, .skill-card, .course-card, .project-card {
+        width: 45%;
+        max-width: 250px;
+    }
+
+    .skills-grid, .recommendation-section {
+        gap: 15px;
+    }
+}
+
+@media (min-width: 1025px) {
+    /* Larger screens adjustments */
+    .navbar h1 {
+        font-size: 1.5em;
+    }
+
+    .navbar ul li a {
+        font-size: 1.1em;
+    }
+
+    .upload-box, .skill-card, .course-card, .project-card {
+        width: 200px;
+    }
+
+    .skills-grid, .recommendation-section {
+        gap: 20px;
+    }
+}
+
 
     </style>
 </head>
