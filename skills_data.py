@@ -7,7 +7,7 @@ subdomain_skills = {
         "API Development & Integration": ["RESTful APIs", "GraphQL", "JSON", "OAuth"]
     },
     "Data Science & Machine Learning": {
-        "Data Analysis": ["Python", "R", "Pandas", "NumPy", "SQL", "Excel"],
+        "Data Analysis": ["Python", "Pandas", "NumPy", "SQL", "Excel"],
         "Machine Learning": ["Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "Machine Learning Algorithms"],
         "Data Visualization": ["Matplotlib", "Seaborn", "Tableau", "Power BI", "Plotly"],
         "Natural Language Processing (NLP)": ["NLTK", "SpaCy", "TextBlob", "Hugging Face Transformers"],
@@ -43,7 +43,7 @@ subdomain_skills = {
     },
     "Internet of Things (IoT)": {
         "Embedded Systems": ["Arduino", "Raspberry Pi", "Microcontrollers", "C/C++", "Sensors"],
-        "IoT Communication Protocols": ["MQTT", "HTTP", "LoRa", "Bluetooth", "Zigbee"],
+        "IoT Communication Protocols": ["MQTT", "LoRa", "Bluetooth", "Zigbee"],
         "Cloud Integration": ["AWS IoT", "Azure IoT", "Google Cloud IoT", "Data Analytics"],
         "Edge Computing": ["Edge Devices", "Data Processing", "Latency Reduction", "Data Storage"],
         "Smart Home Automation": ["Voice Recognition", "Device Control", "Security Systems", "Sensors Integration"]
