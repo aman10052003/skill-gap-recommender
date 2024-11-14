@@ -7,7 +7,7 @@ subdomain_skills = {
         "API Development & Integration": ["RESTful APIs", "GraphQL", "JSON", "OAuth"]
     },
     "Data Science & Machine Learning": {
-        "Data Analysis": ["Python","Pandas", "NumPy", "SQL", "Excel"],
+        "Data Analysis": ["Python"," R ","Pandas", "NumPy", "SQL", "Excel"],
         "Machine Learning": ["Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "Machine Learning Algorithms"],
         "Data Visualization": ["Matplotlib", "Seaborn", "Tableau", "Power BI", "Plotly"],
         "Natural Language Processing (NLP)": ["NLTK", "SpaCy", "TextBlob", "Hugging Face Transformers"],
