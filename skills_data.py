@@ -1,6 +1,6 @@
 subdomain_skills = {
     "Web Development": {
-        "Frontend Development": ["HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "Bootstrap", "jQuery"],
+        "Frontend Development": ["HTML", "CSS","Java", "JavaScript", "React", "Angular", "Vue.js", "Bootstrap", "jQuery"],
         "Backend Development": ["Node.js", "Express.js", "Django", "Flask", "ASP.NET"],
         "Full-Stack Development": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React", "Django"],
         "Database Integration": ["SQL", "MySQL", "PostgreSQL", "MongoDB", "Firebase"],
