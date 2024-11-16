@@ -1,4 +1,4 @@
-#SkillSync: Your AI Career Assistant 
+#SkillSync: Your AI Career Assistant
 SkillSync is a web-based application designed to enhance resumes and boost career prospects by analyzing resume and job descriptions. It identifies missing skills, recommends courses, and suggests projects to help users align their resumes with job requirements effectively.
 
 Features
