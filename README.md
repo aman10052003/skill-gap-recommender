@@ -4,17 +4,18 @@ SkillSync is a web-based application designed to enhance resumes and boost caree
 
 Features
 Upload Functionality: Upload resume and job description PDFs directly through the interface.
-Skill Analysis: Extracts skills from resumes and job descriptions to highlight missing skills.
-Course Recommendations: Suggests relevant online courses (from platforms like Udemy, Coursera, etc.) to bridge skill gaps.
-Project Suggestions: Recommends GitHub projects based on skills and job requirements, including information about stars and domains.
-Real-Time Feedback: Interactive UI to display results dynamically, with animations for better user experience.
-Tech Stack
 
-Frontend:
-HTML5, CSS3, JavaScript
-SVG Icons for visuals
-Backend:
-Python (Flask)
+Skill Analysis: Extracts skills from resumes and job descriptions to highlight missing skills.
+
+Course Recommendations: Suggests relevant online courses (from Coursera) to bridge skill gaps.
+
+Project Suggestions: Recommends GitHub projects based on skills and job requirements, including information about stars and domains.
+
+Real-Time Feedback: Interactive UI to display results dynamically, with animations for better user experience.
+
+Tech Stack
+Frontend:HTML5, CSS3, JavaScript,SVG Icons for visuals
+Backend:Python (Flask)
 Machine Learning for skill extraction and project/course recommendation
 Libraries & APIs:
 PyPDF2, spaCy, GitHub API, and external course recommendation APIs
@@ -71,3 +72,5 @@ Acknowledgements
 OpenAI for guidance.
 GitHub API for project recommendations.
 Online course platforms for course suggestions.
+
+The project is live at https://skill-gap-recommender.onrender.com 
