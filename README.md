@@ -59,6 +59,7 @@ Folder Structure
 ├── templates/          # HTML templates for frontend  
 │   ├── index.html      # Main interface  
 ├── requirements.txt    # Python dependencies 
+
 ├──skills_data          #all cs/it related skills divided in different domains and subdomains       
 ├── README.md           # Project documentation  
 
