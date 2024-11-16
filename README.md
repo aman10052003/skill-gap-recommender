@@ -69,8 +69,8 @@ Integrate more APIs for course recommendations.
 Add support for multiple file formats like Word documents.
 Enable multi-language resume parsing using advanced NLP models.
 Enhance skill matching with more industry domains beyond CS/IT.
+
 Acknowledgements
-OpenAI for guidance.
 GitHub API for project recommendations.
 Online course platforms for course suggestions.
 
